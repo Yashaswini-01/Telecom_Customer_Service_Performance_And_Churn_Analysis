@@ -6,7 +6,10 @@ In today's competitive telecom market, customer service plays a critical role in
 
 The dashboard was built using Tableau, with data cleaned and transformed using SQL and Excel. It offers an intuitive interface for business teams to explore KPIs and make informed service decisions.
 
-## 📈 Live Dashboard
+## 📈 Dashboard & Visualization
+
+<img src="Dashboard 1.png" alt="Dashboard Preview" width="700"/>
+
 🔗 [View the interactive Tableau dashboard](https://public.tableau.com/views/CallCentreKPIDashboard-LatestMonthOverview/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 This dashboard provides visibility into call volumes, agent performance, and customer experience metrics.
